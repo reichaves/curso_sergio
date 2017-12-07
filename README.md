@@ -1,2 +1,5 @@
-Curso de Jornalismo de Dados com Sérgio Spagnuolo
-=================
+# cervejarias
+
+Fonte original
+
+https://github.com/brewdega/open-beer-database-dumps 
