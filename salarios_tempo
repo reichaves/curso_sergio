@@ -1,0 +1,4 @@
+select nome, SalárioMensal, TempoUSP from USP
+where TempoUSP < 10
+and TempoUSP > 1
+order by SalárioMensal DESC

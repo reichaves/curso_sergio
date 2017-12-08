@@ -1,5 +1,5 @@
-# cervejarias
+# Denver lidera ranking de cidades com maior número de cervejarias
 
-Fonte original
+![Imagem][grafico.png]
 
-https://github.com/brewdega/open-beer-database-dumps 
+### [Fonte original](https://github.com/brewdega/open-beer-database-dumps)
